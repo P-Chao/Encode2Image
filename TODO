@@ -1,0 +1,11 @@
+TODO
+-------------------------------------------------------
+
+version 1.0.0: (planned TBD)
+FOCUS: work with encoder and decoder
+
+version 0.1.0: (planned TBD)
+FOCUS: encode file to qrcode image
+ x Generate QRCode from string
+ x Design tranfer file proto
+ x Check file proto
